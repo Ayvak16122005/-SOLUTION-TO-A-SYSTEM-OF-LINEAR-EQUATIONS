@@ -1,4 +1,5 @@
-# -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+# EX:1.SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+# Date:14/03/2024
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
@@ -14,7 +15,13 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-
+```
+/*
+Program to implement univariate Linear Regression to fit a straight line using least squares.
+Developed by:Kavya T 
+RegisterNumber:2305003004  
+*/
+`````
 ```python
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
@@ -22,8 +29,8 @@ B=np.array([-9,4,-1])
 solu=np.linalg.solve(A,B)
 print(solu)
 ```
-## Output:![Screenshot 2024-04-04 092537](https://github.com/Ayvak16122005/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147690197/849b3443-8059-4063-8e0d-67a2352119b5)
-
+## Output:
+![Screenshot 2024-04-04 082534](https://github.com/Ayvak16122005/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147690197/fe248d3b-f871-454e-8817-2d1c893b6397)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
