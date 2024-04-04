@@ -14,13 +14,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-```
-/*
-Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by:Kavya T 
-RegisterNumber:2305003004  
-*/
-`````
+
 ```python
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
@@ -29,7 +23,8 @@ solu=np.linalg.solve(A,B)
 print(solu)
 ```
 ## Output:
-![Screenshot 2024-04-04 082534](https://github.com/Ayvak16122005/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147690197/5d6692d7-f965-4a17-b60c-5eaf896d1138)
+![Screenshot 2024-04-04 082745](https://github.com/Ayvak16122005/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147690197/c732ad89-188d-4e1f-ac4e-e9b627e12050)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
