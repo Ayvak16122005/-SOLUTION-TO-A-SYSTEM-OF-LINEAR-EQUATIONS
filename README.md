@@ -23,7 +23,8 @@ solu=np.linalg.solve(A,B)
 print(solu)
 ```
 ## Output:
-![Screenshot 2024-04-04 090308](https://github.com/Ayvak16122005/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147690197/1f6f7936-723f-45f5-b1b5-2304ada37918)
+![Screenshot 2024-04-04 091422](https://github.com/Ayvak16122005/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147690197/c18cf18e-41a5-4b91-a268-27c2ffdc71a1)
+
 
 
 ## Result: 
