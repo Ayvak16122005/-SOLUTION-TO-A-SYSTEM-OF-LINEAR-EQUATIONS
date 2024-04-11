@@ -20,11 +20,10 @@ End the program
 
 ## Program:
 ```
-/*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by:Kavya T 
 RegisterNumber:2305003004  
-*/
+
 `````
 ```python
 import numpy as np
